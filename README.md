@@ -78,6 +78,7 @@ A modern web application for generating AI-powered phone wallpapers using Google
 vibewallpapers/
 ├── components/          # React components
 ├── services/            # API service functions
+├── screenshots/         # Screenshots for README
 ├── src/                 # Vite source files
 ├── server.js            # Express backend server
 ├── package.json         # Dependencies and scripts
@@ -99,13 +100,13 @@ This project is licensed under the MIT License.
 ## Screenshots
 
 ### Home Page
-![Home Page](image.png)
+![Home Page](./screenshots/home.png)
 *The main interface where users can enter prompts and select filters to generate wallpapers.*
 
 ### Generated Images
-![Generated Images](image-2.png)
+![Generated Images](./screenshots/output.png)
 *Example of AI-generated wallpapers displayed in the gallery view.*
 
 ### Gallery View
-![Gallery View](fff.png)
+![Gallery View](./screenshots/gallery.png)
 *Full gallery showing multiple generated wallpapers with modal viewer capability.*
