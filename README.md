@@ -95,3 +95,17 @@ vibewallpapers/
 ## License
 
 This project is licensed under the MIT License.
+
+## Screenshots
+
+### Home Page
+![Home Page](image.png)
+*The main interface where users can enter prompts and select filters to generate wallpapers.*
+
+### Generated Images
+![Generated Images](image-1.png)
+*Example of AI-generated wallpapers displayed in the gallery view.*
+
+### Gallery View
+![Gallery View](fff.png)
+*Full gallery showing multiple generated wallpapers with modal viewer capability.*
