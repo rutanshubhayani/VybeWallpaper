@@ -103,7 +103,7 @@ This project is licensed under the MIT License.
 *The main interface where users can enter prompts and select filters to generate wallpapers.*
 
 ### Generated Images
-![Generated Images](image-1.png)
+![Generated Images](image-2.png)
 *Example of AI-generated wallpapers displayed in the gallery view.*
 
 ### Gallery View
