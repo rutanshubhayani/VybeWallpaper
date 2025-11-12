@@ -27,7 +27,7 @@ A modern web application for generating AI-powered phone wallpapers using Google
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rutanshubhayani/VybeWallpaper.git
    cd vibewallpapers
    ```
 
@@ -42,6 +42,7 @@ A modern web application for generating AI-powered phone wallpapers using Google
      ```
      VITE_GEMINI_API_KEY=your_api_key_here
      ```
+     **Note:** Image generation using Gemini's Imagen model may incur costs and require a paid subscription. Ensure your API key has the necessary permissions and billing enabled.
 
 ## Running the Application
 
